@@ -24,5 +24,4 @@
 ![Rohit-kumar-yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-kumar-yadav&theme=dark&show_icons=true)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-kumar-yadav&show_icons=true&locale=en" alt="rohit-kumar-yadav" /></p>
 
