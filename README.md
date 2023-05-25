@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my personal project**
 
-- 🌱 I’m currently learning **Java, Data Structures, algorithms, and Android development**
+- 🌱 I’m currently learning **Java, Data Structures, algorithms, and Android development , Frontend Web Dev**
 
 - 💬 Ask me about **Java**
 
