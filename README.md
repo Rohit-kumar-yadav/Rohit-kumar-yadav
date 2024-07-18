@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Rohit Kumar Yadav 👋</h1>
-<h3 align="center">A passionate learner from india</h3>
+<h3 align="center">A passionate learner from Tech world</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-kumar-yadav&row=1&margin-w=18" alt="rohit-kumar-yadav" /></a> </p>
 
-- 🔭 I’m currently working on **my personal project**
+- 🔭 I’m currently Learning *Blockchain and Full stack*
 
-- 🌱 I’m currently learning **Java, Data Structures, algorithms, and Android development , Frontend Web Dev**
+- 🌱 I’m currently learning **Data Structures, algorithms,Full Stack Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about AnyThing related to my `Tech stacks`
+
+- I'm Familiar with **java , js , Android dev , Frontend**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
