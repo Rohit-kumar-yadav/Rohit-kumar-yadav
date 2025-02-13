@@ -7,7 +7,7 @@
 
 - 💬 Ask me about AnyThing related to my `Tech stacks`
 
-- 🌱 I'm Familiar with **java , js , Android dev , Frontend**
+- 🌱 I'm Familiar with **java , js , Android dev , Frontend , Blockchain**
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
